@@ -1,5 +1,3 @@
-def saudar(mensagem):
-    print(mensagem)
 
 def dados(nome,idade,email):
     print(f'''
@@ -7,5 +5,4 @@ def dados(nome,idade,email):
     Idade: {idade}
     Email: {email}''')
 
-saudar("ola")
 dados("Wesley" , 17 , "bulewesleu@gmail.com")
